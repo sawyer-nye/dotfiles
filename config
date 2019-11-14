@@ -227,7 +227,7 @@ exec_always compton -f
 exec_always feh --bg-scale /home/churro/Pictures/wallpaper01.jpg
 
 ### GAPS ###
-#gaps inner 10
-#gaps outer 0
-#smart_gaps on
-#for_window [class=".*"] border pixel 0
+gaps inner 8
+gaps outer 8
+smart_gaps on
+for_window [class=".*"] border pixel 0
